@@ -1,0 +1,28 @@
+.squarered{
+      background-color: red;
+      width: 100px;
+      height: 100px;
+      position: absolute;
+    top: 107px;
+    left:107px;
+
+
+
+    }
+    .squareblue {
+          background-color: blue;
+          width: 100px;
+          height: 100px;
+          position: absolute;
+          right: 30px;
+          top: 214px;
+          down:214px;
+        }
+        .squareyellow {
+              background-color: yellow;
+              width: 100px;
+              height: 100px;
+
+              position: absolute;
+
+            }
